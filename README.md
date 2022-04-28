@@ -1,7 +1,7 @@
 <h1>  Hi, I'm Leila 🏂 🏊‍♀️  </h1>
 
 
-The world is really big and coding gave me my place in it. I love tech because it gives me access to this whole big world. Being an engineer, building things, is the more fun than I ever imagined. It's doing science and art AT THE SAME TIME.
+I love tech because it gives me access to the whole big, bright world. Being an engineer, building things, is the more fun than I ever imagined. It's doing science & art AT THE SAME TIME.
 
 I'll never learn everything about this topic and that fires me up.
 

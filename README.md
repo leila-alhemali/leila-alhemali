@@ -8,11 +8,9 @@ I'll never learn everything about this topic and that fires me up.
 I love nerding out about coding so, let's chat! Especially if you're curious about one of my projects. 
 
 - 🔭 I’m currently working on building svelt custom hooks
-- 🌱 I’m currently learning typescript
 - 👯 I’m looking to collaborate on remote mapping projects
 - 🤔 I’m looking for help with dev ops
 - 📫 How to reach me: leila.alhemali@gmail.com
-- 😄 Pronouns: she/her/hers
 - :star: Fun fact: A full grown human can walk through a blue whale's aeortic valve
 - :boom: Another Fun fact: A hummingbird's wings beat 200 times per minute
 - :exclamation: One More Fun fact: There are over 900,000 living species of insects

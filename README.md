@@ -13,9 +13,9 @@ I love nerding out about coding so, let's chat! Especially if you're curious abo
 - 🤔 I’m looking for help with dev ops
 - 📫 How to reach me: leila.alhemali@gmail.com
 - 😄 Pronouns: she/her/hers
-- :fire: Fun fact: A full grown human can walk through a blue whale's aeortic valve
-- :fire: Another Fun fact: A hummingbird's wings beat 200 times per minute
-- :fire: One More Fun fact: There are over 900,000 living species of insects
-- :fire: The Last Fun fact: The world's largest organism is a fungus that covers 2,384 acres
+- :star: Fun fact: A full grown human can walk through a blue whale's aeortic valve
+- :boom: Another Fun fact: A hummingbird's wings beat 200 times per minute
+- :exclamation: One More Fun fact: There are over 900,000 living species of insects
+- :sparkles: The Last Fun fact: The world's largest organism is a fungus that covers 2,384 acres
 - :fire: Actually The Last Fun fact: I'm looking for a front-end engineer position!
 

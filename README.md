@@ -5,7 +5,7 @@ I love tech because it gives me access to the whole big, bright world. Being an 
 
 I'll never learn everything about this topic and that fires me up.
 
-I love nerding out about coding so, let's chat, especially if you're curious about one of my projects!
+I love nerding out about coding so, <b>let's chat</b>, especially if you're curious about one of my projects!
 
 - 🔭 I’m currently working on building svelt custom hooks
 - 👯 I’m looking to collaborate on remote mapping projects

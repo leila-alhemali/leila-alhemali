@@ -1,8 +1,6 @@
-I'm Leila
-<!--
-**leila-alhemali/leila-alhemali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Leila on the World Wild Web
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on mastering building svelt custom hooks
 - 🌱 I’m currently learning typescript
@@ -12,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: leila.alhemlali@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: A full grown man can walk through a blue whale's aeortic valve
--->
+
+
